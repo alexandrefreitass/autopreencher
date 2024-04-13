@@ -1,7 +1,7 @@
 ## Autopreenchimento de Formulários com Python
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/desafio-smartfit/assets/109884524/b9dc215e-2f08-4a46-a900-74fb7830dd35" />
+    <img src="https://github.com/alexandrefreitass/autopreencher/assets/109884524/39b19c5f-189f-46cc-b00a-1142458adc5c" />
 </div>
 
 Este projeto foi desenvolvido para automatizar o preenchimento de formulários em um site administrado no meu trabalho. Utiliza Python juntamente com as bibliotecas `openpyxl`, `pyperclip` e `pyautogui` para preencher automaticamente um formulário a partir de dados extraídos de uma grande planilha de Excel, uma tarefa que demoraria dias para ser realizada manualmente.
