@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://github.com/alexandrefreitass/autopreencher/assets/109884524/523ebe0f-6bff-409b-8a9b-007dd5c5c70a" />
 </div>
-
+<br/>
 Este projeto foi desenvolvido para automatizar o preenchimento de formulários em um site administrado no meu trabalho. Utiliza Python juntamente com as bibliotecas `openpyxl`, `pyperclip` e `pyautogui` para preencher automaticamente um formulário a partir de dados extraídos de uma grande planilha de Excel, uma tarefa que demoraria dias para ser realizada manualmente.
 
 ### Funcionalidades
