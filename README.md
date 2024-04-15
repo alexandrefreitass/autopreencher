@@ -42,4 +42,4 @@ mouseInfo()
 Contribuições para melhorar este projeto são sempre bem-vindas. Sinta-se à vontade para clonar este repositório, fazer suas modificações e submeter um pull request.
 
 ### Licença
-Este projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/alexandrefreitass/autopreencher/blob/master/LICENSE.txt">LICENSE</a> para obter mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/alexandrefreitass/autopreencher/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
